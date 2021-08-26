@@ -1,4 +1,4 @@
-## Projeto em React.js que busca Restaurantes proximos (com base na localização do navegador)
+## Projeto em React.js que busca Restaurantes próximos (com base na localização do navegador)
 
 # projeto possui carousel e modal para mais informações sobre o restaurante.
 
